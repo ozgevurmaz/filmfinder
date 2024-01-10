@@ -1,5 +1,5 @@
 body {
-    background-color: #7f0920;
+    background-color: #c2490c;
     color: #0a0408;
 }
 
@@ -35,10 +35,8 @@ body {
 }
 
 img#moviePoster {
-    width:  100%;
+    width:  70%;
     height:  auto;
-    display:  block;
-    margin:  auto;
 }
 
 #movieText {
@@ -57,8 +55,8 @@ img#moviePoster {
     padding: 7px 10px;
     border-radius: 10px;
     border-style: none;
-    background-color: #B97828;
-    color: #fdc238;
+    background-color: #f1a85e;
+    color: #513203;
     cursor:  pointer;
 }
 
@@ -92,6 +90,11 @@ select {
 }
 
 #dislikeBtn {
-    background-color: #c74a4a;
+    background-color: #e96e6e;
     color: #910000;
+}
+
+button:hover{
+    scale: 110%;
+    transition: 1s ease-in-out;
 }
