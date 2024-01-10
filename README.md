@@ -37,7 +37,6 @@ With simple and easy to use interface you can pick the gender easily.
 <br/>
 
 Get information about the selected movie.
-
 <br/>If you don't like it, you can move on to a new film by pressing the 'dislike' button.
 
 
